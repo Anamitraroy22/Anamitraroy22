@@ -5,13 +5,13 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **Personal projects**
-- 👯 I'm collaborating with coders on **10 Major projects done**
-- 💬 Ask me about **Web Development, Data Science, AWS** & ANDROID DEVELOPMENT 
-- 📫 How to reach me: **anamitraroy2206@gmail.com**
+- 🔭 I’m currently working on **Personal projects**  
+- 👯 I'm collaborating with coders on **10 Major projects done**  
+- 💬 Ask me about **Web Development, Data Science, AWS & Android Development**  
+- 🌐 Check out my portfolio: [undercovergenius-portfolio.vercel.app](https://undercovergenius-portfolio.vercel.app)  
+- 📫 How to reach me: **anamitraroy2206@gmail.com**  
 - ⚡ Fun fact: **It’s all 0’s and 1’s**
-
----
+-----
 
 ### Connect with me:
 

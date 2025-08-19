@@ -11,6 +11,7 @@
 - 🌐 **Check out my portfolio**: [anamitraroy.vercel.app](https://anamitraroy.vercel.app/)  
 - 📧 How to reach me: **anamitraroy2206@gmail.com**  
 - 🎉 Fun fact: **It’s all 0’s and 1’s**
+- Want to here more 
 
 ---
 ### Connect with me:

@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🛠️ I’m currently working on **personal projects**  
+- 🛠️ I’m currently working on **personal projects and freelancing companies**  
 - 🤝 I've collaborated with coders across **10 major projects**  
 - 💬 Ask me about **Web Development, Data Science, AWS & Android Development**  
 - 🌐 **Check out my portfolio**: [anamitraroy.vercel.app](https://anamitraroy.vercel.app/)  

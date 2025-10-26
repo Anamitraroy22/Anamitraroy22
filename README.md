@@ -79,4 +79,5 @@
 
 ### GitHub Stat(s):
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anamitraroy22&show_icons=true&locale=en&layout=compact" alt="anamitraroy22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anamitraroy22&show_icons=true&locale=en&layout=compact" alt="anamitraroy22" ** /></p>
+
